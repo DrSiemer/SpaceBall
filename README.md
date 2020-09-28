@@ -11,5 +11,5 @@ Arduino controlled double axis rotating circle of LEDs
 * Direct frequency based audio input using an MSGEQ7
 
 ## Credits
-All hardware and initial code by KOOS  
+All hardware and initial code by Heersbeer  
 Code modifications and expansion by Dr Siemer
